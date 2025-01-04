@@ -1,0 +1,4 @@
+../Core/Src/traffic_control.c:15:6:updateTrafficState	24	static
+../Core/Src/traffic_control.c:83:6:configureTrafficLights	24	static
+../Core/Src/traffic_control.c:100:6:configurePedestrianSignals	24	static
+../Core/Src/traffic_control.c:110:6:processPedestrianRequest	8	static
