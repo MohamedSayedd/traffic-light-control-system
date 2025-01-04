@@ -24,7 +24,7 @@ This project involves designing and implementing a traffic light control system 
 *Figure 1: Complete circuit schematic of the traffic light system*
 
 ### Hardware Implementation
-![photo_2025-01-04_23-29-09](https://github.com/user-attachments/assets/f58d1912-bb16-4f79-baa3-c2d4566d0361)
+![photo_2025-01-04_23-29-09](https://github.com/user-attachments/assets/77cb2896-2a32-4579-938f-8291cdda0fa4)
 
 *Figure 2: Physical implementation of the system*
 
