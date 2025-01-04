@@ -19,12 +19,12 @@ This project involves designing and implementing a traffic light control system 
 - **Resistors**: Current-limiting resistors for LEDs
 
 ### Circuit Diagram
-![image](https://github.com/user-attachments/assets/6b4d6c0d-f8e8-4699-bab4-93b86e96707c)
+![cct](https://github.com/user-attachments/assets/ab40c315-b730-4e52-8882-505f6083b1af)
 
 *Figure 1: Complete circuit schematic of the traffic light system*
 
 ### Hardware Implementation
-![image](https://github.com/user-attachments/assets/e6b723f0-98aa-4df9-b76d-9ab8357ed171)
+![photo_2025-01-04_23-29-09](https://github.com/user-attachments/assets/f58d1912-bb16-4f79-baa3-c2d4566d0361)
 
 *Figure 2: Physical implementation of the system*
 
